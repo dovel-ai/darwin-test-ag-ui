@@ -40,3 +40,4 @@ overrides:
   "@ag-ui/aws-strands-examples>zod": ^4.4.3
   "@omnara/sdk>zod": ^4.4.3
   hono: 4.12.27
+  lodash-es: 4.18.1
