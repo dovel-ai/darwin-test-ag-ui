@@ -27,5 +27,8 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.600.0",
     "json2md": "^2.0.1"
+  },
+  "overrides": {
+    "fast-xml-parser": "5.12.0"
   }
 }
